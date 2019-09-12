@@ -5,13 +5,7 @@ Repo for github pages website that is being hosted on jacobo.info
 ## Building locally
 
 Mostly for my own future reference
-Run the following commands in separate terminal windows:
-
-```
-jekyll build --incremental --watch
-```
-
-and
+Run the following command in separate terminal window:
 
 ```
 jekyll serve
