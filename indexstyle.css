@@ -5,6 +5,11 @@ body {
     padding: 25px;
 }
 
+a {
+    padding: 0px 1px;
+    text-decoration: none;
+}
+
 .large-text {
     font-size: 25px;
     font-family: 'Open Sans', sans-serif;
@@ -15,11 +20,9 @@ body {
 }
 
 #paragraph-info {
-    padding: 40px 0px;
-}
-
-#contact-info {
-    font-weight: bolder;
+    padding: 30px 0px;
+    max-width: 500px;
+    margin: auto;
 }
 
 
