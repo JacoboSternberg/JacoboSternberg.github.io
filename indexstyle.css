@@ -1,13 +1,29 @@
 body {
     background-color: #FAFAFA;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding: 25px;
 }
 
-.LargeText {
-    text-align: center;
-    font-size: 50px;
+.large-text {
+    font-size: 25px;
     font-family: 'Open Sans', sans-serif;
 }
 
 .wrapper {
     margin-top: 10px;
+}
+
+#paragraph-info {
+    padding: 40px 0px;
+}
+
+#contact-info {
+    font-weight: bolder;
+}
+
+
+#contact-info-text {
+    font-size: 20px;
+    padding: 10px 0px;
 }
